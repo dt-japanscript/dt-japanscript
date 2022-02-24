@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**dt-japanscript/dt-japanscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Webpages:
 
 - 🔭 https://dt-japanscript.github.io/eLearning.github.io/
